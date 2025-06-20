@@ -11,7 +11,7 @@ const Hero= () => {
       <div className="flex justify-center">
         <div className="relative w-[300px] h-[400px] md:w-[400px] md:h-[500px]">
           <Image
-            src="/image.jfif"
+            src="/IMAGE.PNG"
             alt="Profile Picture"
             layout="fill"
             objectFit="cover"
