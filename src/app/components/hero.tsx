@@ -34,10 +34,10 @@ const Hero= () => {
 
         {/* Social Icons - Centered on Mobile, Right Aligned on Desktop */}
         <div className="flex space-x-6 mt-6 ">
-          <a href="#" className="text-gray-400 hover:text-blue-500 transition duration-300 text-xl"><FaFacebookF /></a>
+          <a href="https://www.facebook.com/share/1DfDJn7bV1/" className="text-gray-400 hover:text-blue-500 transition duration-300 text-xl"><FaFacebookF /></a>
           <a href="#" className="text-gray-400 hover:text-blue-400 transition duration-300 text-xl"><FaTwitter /></a>
-          <a href="#" className="text-gray-400 hover:text-pink-500 transition duration-300 text-xl"><FaInstagram /></a>
-          <a href="#" className="text-gray-400 hover:text-blue-700 transition duration-300 text-xl"><FaLinkedinIn /></a>
+          <a href="https://www.instagram.com/muhammadabdullah6156?igsh=MW04bWc1YnV4N3Fsbg==" className="text-gray-400 hover:text-pink-500 transition duration-300 text-xl"><FaInstagram /></a>
+          <a href="https://www.linkedin.com/in/muhammad-abdullah-608284302/" className="text-gray-400 hover:text-blue-700 transition duration-300 text-xl"><FaLinkedinIn /></a>
         </div>
       </div>
     
