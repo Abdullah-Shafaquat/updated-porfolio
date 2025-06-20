@@ -115,6 +115,13 @@ const projects = [
     image: "/project16.PNG",
     link: "https://hacaton-3-nhjy.vercel.app/",
   },
+   {
+    id: 17,
+    title: "crude-operation",
+    description: "A cutthroat crime odyssey where trust gets you killed and brutality keeps you alive.",
+    image: "/project17.PNG",
+    link: "https://crude-operation-f9s5.vercel.app/",
+  }
 ];
 
 const ProjectSection = () => {
